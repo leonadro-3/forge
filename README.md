@@ -12,4 +12,6 @@ https://developturnover.tistory.com/19
 4. tutorial mod 만들어보기
 5. gradle, parchmentmc 설정하기 (업데이트가 되면서 바꿔야 하는 부분이 달라짐)
 
+![image](https://github.com/leonadro-3/forge/assets/69701682/570757e6-bb6a-4ce4-aee4-295977927486)
 
+폴더명이 이렇게 바뀌어야 하고 프로젝트 및 IDE의 Gradle JDK 설정을 17로 맞춰줘야 함.  
