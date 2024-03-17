@@ -1,3 +1,6 @@
+// 중요 
+// 주석을 번역한 것
+
 package com.example.examplemod;
 
 import com.mojang.logging.LogUtils;
